@@ -1,0 +1,24 @@
+body {
+    background-color: #294F6D;
+}
+
+#container {
+    font-size: 1.5rem;
+    font-family: 'Cormorant Unicase', serif;
+    margin-top: 50vh;
+    text-align: center;
+    color: rgb(211, 228, 241);
+    transform: translate(0, -50%);
+}
+
+h1, h2, h3 {
+    font-weight: lighter;
+}
+
+button {
+    background-color: rgb(10, 33, 51);
+    color: rgb(211, 228, 241);
+    font-size: 1rem;
+    padding: 1rem 2rem;
+    margin-top: 2rem;
+}
