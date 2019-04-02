@@ -137,6 +137,7 @@ const adjectives = [
 
 function getName () {
     // First, fade out the first name
+    $('#name-text').stop();
     $('#name-text').fadeOut(0);
 
     let name = '';
